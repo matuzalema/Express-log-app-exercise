@@ -1,1 +1,1 @@
-http://localhost:3000/log
+http://localhost:3000
